@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Github</string>
+    <string name="no_repo_to_display">No repo to display</string>
+    <string name="no_pull_to_display">No pull request to display</string>
+    <string name="enter_the_github_user_name">Enter the Github Username</string>
+    <string name="proceed">Proceed</string>
 </resources>
